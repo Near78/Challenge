@@ -1,0 +1,4 @@
+name: Challenges
+main: de.near.challenges.main.Main
+version: 1.0
+authors: [Near78]
